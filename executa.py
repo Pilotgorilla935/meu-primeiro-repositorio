@@ -1,1 +1,2 @@
-print("Versionando Cóodigo")
+print("Versionando Código")
+print("Como fazer uma pilha??")
